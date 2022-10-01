@@ -1,0 +1,96 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	background-image: url(../imagenes/b0962b56100758e4c1d6c8eea38cf0e6.jpg);
+	background-repeat: repeat;
+}
+
+
+#principal {
+	height: auto;
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+}
+#principal #encabezado {
+	float: left;
+	width: 720px;
+	height: 180px;
+	padding-right: 90px;
+	padding-left: 90px;
+	background-color: #FFF;
+}
+#principal #menu {
+	float: left;
+	height: 46px;
+	width: 900px;
+}
+#principal #menu #boton1 {
+	font-family: "Times New Roman", Times, serif;
+	color: #ffaa01;
+	font-size: 24px;
+	height: 40px;
+	width: 140px;
+	padding-top: 6px;
+	float: left;
+	font-weight: bolder;
+	background-image: url(../imagenes/pie_fondo.gif);
+	padding-left: 85px;
+}
+#principal #menu #boton2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bolder;
+	color: #ffaa01;
+	height: 40px;
+	width: 155px;
+	padding-top: 6px;
+	padding-left: 70px;
+	float: left;
+	background-image: url(../imagenes/pie_fondo.gif);
+}
+#principal #menu #boton3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bolder;
+	color: #ffaa01;
+	float: left;
+	height: 40px;
+	width: 165px;
+	padding-top: 6px;
+	padding-left: 60px;
+	background-image: url(../imagenes/pie_fondo.gif);
+}
+#principal #menu #boton4 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bolder;
+	color: #ffaa01;
+	float: left;
+	height: 40px;
+	width: 160px;
+	padding-top: 6px;
+	padding-left: 65px;
+	background-image: url(../imagenes/pie_fondo.gif);
+}
+
+#principal #contenido {
+	background-color: #FFF;
+	padding: 10px;
+	float: left;
+	width: 880px;
+}
+
+#principal #pie {
+	background-image: url(../imagenes/pie_fondo.gif);
+	background-repeat: repeat-x;
+	height: 50px;
+	width: 680px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #ffaa01;
+	float: left;
+	padding-top: 20px;
+	padding-left: 220px;
+}
